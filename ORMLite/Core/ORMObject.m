@@ -27,6 +27,10 @@
     }
     return self;
 }
+
+/**
+ * init a object for database
+ **/
 - (instancetype)initForDB
 {
     self = [super init];

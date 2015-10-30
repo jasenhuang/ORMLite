@@ -18,4 +18,5 @@ FOUNDATION_EXPORT const unsigned char ORMLiteVersionString[];
 #import <ORMLite/orm.h>
 #import <ORMLite/ormtype.h>
 #import <ORMLite/ORMObject.h>
+#import <ORMLite/ORMUtils.h>
 

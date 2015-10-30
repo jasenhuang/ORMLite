@@ -9,10 +9,6 @@
 #import <Foundation/Foundation.h>
 
 @interface ORMObject : NSObject
-/**
- * init a object for database
- **/
-- (instancetype)initForDB;
 
 - (void)save;
 
